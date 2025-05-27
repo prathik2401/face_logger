@@ -47,7 +47,7 @@ face_logger/
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/prathik2401/face_logger.git
     cd face_logger
     ```
 
